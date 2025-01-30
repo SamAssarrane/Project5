@@ -15,6 +15,17 @@ public class DemoTest5 {
 
 		System.out.println(result);
 
+		// Variables
+		int x = 10;
+		int y = 20;
+
+		// IF Statement
+		if (x > y) {
+			system.out.println("Greater");
+		} else {
+			system.out.println("Less");
+		}
+
 	}
 
 	// Method
