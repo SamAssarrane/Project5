@@ -21,9 +21,9 @@ public class DemoTest5 {
 
 		// IF Statement
 		if (x > y) {
-			system.out.println("Greater");
+			System.out.println("Greater");
 		} else {
-			system.out.println("Less");
+			System.out.println("Less");
 		}
 
 	}
